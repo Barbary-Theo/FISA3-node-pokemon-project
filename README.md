@@ -7,15 +7,15 @@
 I saw in the project that we could choose a subject between food, Pokemons or Street Fighter characters.
 Therefore, my project is about Pokemon. 🐱
 
-Of course, I had to create a Mockups to explain what I did : [here] (https://www.figma.com/file/B4c30f1Ih551bmiG3OmTkb/Untitled?node-id=0%3A1)
+Of course, I had to create a Mockups to explain what I did : [here](https://www.figma.com/file/B4c30f1Ih551bmiG3OmTkb/Untitled?node-id=0%3A1)
 
-####Login Page :
+#### Login Page :
 
 🟡 Here you can :
 * Log-in
 * Sign-in
 
-####Team Page :
+#### Team Page :
 
 🟢 Here you can :
 * See you current team
@@ -23,7 +23,7 @@ Of course, I had to create a Mockups to explain what I did : [here] (https://www
 * Reset all Pokemon in your team
 * If you click on an empty space, you will be redirected to Adding Page
 
-####Adding Page :
+#### Adding Page :
 
 🔵 Here you can :
 * See all Pokemon which you can add to your team
@@ -31,7 +31,7 @@ Of course, I had to create a Mockups to explain what I did : [here] (https://www
 * If you click on a Pokemon and not on "adding button", you will be redirected to information page
 
 
-####Information Page :
+#### Information Page :
 
 ⚫️ Here you can :
 * See all Pokemon's information
