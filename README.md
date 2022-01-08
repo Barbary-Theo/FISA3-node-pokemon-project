@@ -10,11 +10,13 @@ Therefore, my project is about Pokemon. 🐱
 Of course, I had to create a Mockups to explain what I did : [here] (https://www.figma.com/file/B4c30f1Ih551bmiG3OmTkb/Untitled?node-id=0%3A1)
 
 ####Login Page :
+
 🟡 Here you can :
 * Log-in
 * Sign-in
 
 ####Team Page :
+
 🟢 Here you can :
 * See you current team
 * Remove Pokemon to your team
@@ -22,6 +24,7 @@ Of course, I had to create a Mockups to explain what I did : [here] (https://www
 * If you click on an empty space, you will be redirected to Adding Page
 
 ####Adding Page :
+
 🔵 Here you can :
 * See all Pokemon which you can add to your team
 * Add a Pokemon to your team
@@ -29,6 +32,7 @@ Of course, I had to create a Mockups to explain what I did : [here] (https://www
 
 
 ####Information Page :
+
 ⚫️ Here you can :
 * See all Pokemon's information
 
